@@ -68,6 +68,7 @@ blockquote i {
   font-size: 1.2rem;
   outline: none;
   cursor: pointer;
+  z-index: 2;
 }
 
 .btn-rotate {
