@@ -65,10 +65,9 @@ blockquote i {
 .btn-configuracao {
   border: none;
   background-color: white;
-  font-size: 2rem;
+  font-size: 1.2rem;
   outline: none;
   cursor: pointer;
-  
 }
 
 .btn-rotate {
@@ -77,7 +76,6 @@ blockquote i {
   font-size: 2rem;
   outline: none;
   cursor: pointer;
-  
 }
 
 @keyframes loading-rotate {
