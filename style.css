@@ -68,7 +68,6 @@ blockquote i {
   font-size: 1.2rem;
   outline: none;
   cursor: pointer;
-  z-index: 3
 }
 
 .btn-rotate {
@@ -77,7 +76,6 @@ blockquote i {
   font-size: 2rem;
   outline: none;
   cursor: pointer;
-  z-index: 2;
 }
 
 @keyframes loading-rotate {
